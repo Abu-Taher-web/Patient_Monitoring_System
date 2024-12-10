@@ -62,7 +62,7 @@ This project was developed as part of the **Electronics Project Design Lab (Cour
 - Enhance the system for better usability and scalability.
 
 <div align="center">
-  <img src="Images/circuit diagram.png" alt="Project Setup" width="650">
+  <img src="Images/patient_monitoring_device_2.jpg" alt="Project Setup" width="650">
 </div>
 
 ## Acknowledgment
